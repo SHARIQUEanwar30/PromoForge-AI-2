@@ -1,0 +1,27 @@
+# --- secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# --- CONFIDENTIAL: Kuku input pack and anything derived from it must never be public
+*.zip
+input_pack/
+kuku_pack/
+submission_private/
+outputs/
+output/
+raw_outputs*/
+review_data/
+reviews.json
+parsed_script.json
+
+# --- caches / build
+.promoforge_cache/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+*.egg-info/
