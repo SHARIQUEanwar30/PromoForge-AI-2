@@ -1,0 +1,17 @@
+# Look and feel. Colours used inside the pages live in ui_config.py (COLORS); these set the base widgets (inputs, sidebar, pop-ups).
+[server]
+headless = true
+maxUploadSize = 200
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+base = "dark"
+primaryColor = "#ff4d6d"
+backgroundColor = "#0f1020"
+secondaryBackgroundColor = "#1b1c36"
+textColor = "#f3f3fa"
