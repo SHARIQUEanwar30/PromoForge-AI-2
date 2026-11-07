@@ -2,8 +2,8 @@
 
 **Upload the episodes of a story. PromoForge finds the best 20 to 60 second moments to use as promo clips, tells you the exact start and end time, and ranks them from best to worst.**
 
-> ### 👉 Try it live: **https://YOUR-APP-NAME.streamlit.app**
-> *(Replace the address above with your own link after you deploy. Steps are in [DEPLOY.md](DEPLOY.md). No install, no login, no API key needed to open it.)*
+> ### 👉 Try it live: **https://promoforge-shariq-v2.streamlit.app/**
+> *Steps are in [DEPLOY.md](DEPLOY.md). No install, no login, no API key needed to open it.*
 
 <p align="center">
   <img src="docs/screenshots/1-upload.png" width="48%" alt="Upload page">
