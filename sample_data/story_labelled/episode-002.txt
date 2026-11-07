@@ -1,0 +1,142 @@
+EPISODE NUMBER: Episode 2
+EPISODE LOGLINE: Mara learns the letter names her as heir to the Harrow estate.
+CONTINUITY NOTES: Picks up directly from Episode 1's cliffhanger at the orchard gate.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. MANOR - CONTINUOUS
+Scene end: 01:00.00
+Scene start: 00:00.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.50)
+Wide shot of the scene.
+
+**ACTION:**
+Start: (00:00.00) | End: (00:04.50)
+Mara snatches the letter and tears it open under the stranger's lantern.
+
+**CAMERA:**
+Start: (00:04.50) | End: (00:08.60)
+Medium shot of Mara.
+
+**MARA (Disbelieving):**
+Start: (00:04.70) | End: (00:08.50)
+"This says I am the granddaughter of Lord Harrow."
+
+**CAMERA:**
+Start: (00:08.60) | End: (00:14.90)
+Over-the-shoulder shot on Stranger.
+
+**STRANGER (Steady):**
+Start: (00:08.80) | End: (00:14.80)
+"My name is Elias. I was sent to find you before the will is read."
+
+**CAMERA:**
+Start: (00:14.90) | End: (00:19.40)
+Tight shot on Mara's eyes.
+
+**MARA (Suspicious):**
+Start: (00:15.10) | End: (00:19.30)
+"Why would a lord claim me now, after twenty years?"
+
+**CAMERA:**
+Start: (00:19.40) | End: (00:23.90)
+Close-up on Elias's face.
+
+**ELIAS (Grave):**
+Start: (00:19.60) | End: (00:23.80)
+"Because someone is trying to erase the last Harrow heir."
+
+**CAMERA:**
+Start: (00:23.90) | End: (00:26.20)
+Medium shot of Mara.
+
+**MARA (Afraid):**
+Start: (00:24.10) | End: (00:26.10)
+"Erase? You mean kill."
+
+**CAMERA:**
+Start: (00:26.20) | End: (00:30.40)
+Wide shot of the scene.
+
+**ACTION:**
+Start: (00:26.20) | End: (00:30.40)
+Headlights sweep the road. A black car slows at the gate.
+
+**CAMERA:**
+Start: (00:30.40) | End: (00:33.10)
+Tight shot on Elias's eyes.
+
+**ELIAS (Urgent):**
+Start: (00:30.60) | End: (00:33.00)
+"Get in the carriage. Now."
+
+**CAMERA:**
+Start: (00:33.10) | End: (00:36.50)
+Close-up on Mara's face.
+
+**MARA (Shouting):**
+Start: (00:33.30) | End: (00:36.40)
+"Not until you tell me the truth!"
+
+**CAMERA:**
+Start: (00:36.50) | End: (00:42.00)
+Medium shot of Elias.
+
+**ELIAS (Low):**
+Start: (00:36.70) | End: (00:41.90)
+"Your cousin Lena was paid to forge your signature. I can prove it."
+
+**CAMERA:**
+Start: (00:42.00) | End: (00:44.00)
+Over-the-shoulder shot on Mara.
+
+**MARA (Stunned):**
+Start: (00:42.20) | End: (00:43.90)
+"Paid by whom?"
+
+**CAMERA:**
+Start: (00:44.00) | End: (00:49.50)
+Medium shot following the movement.
+
+**ACTION:**
+Start: (00:44.00) | End: (00:49.50)
+The car door opens. A woman in a pearl coat steps out and lowers her veil.
+
+**CAMERA:**
+Start: (00:49.50) | End: (00:53.60)
+Close-up on Lady Harrow's face.
+
+**LADY HARROW (Icy):**
+Start: (00:49.70) | End: (00:53.50)
+"Hello, Mara. You look so much like your mother."
+
+**CAMERA:**
+Start: (00:53.60) | End: (00:55.90)
+Medium shot of Mara.
+
+**MARA (Trembling):**
+Start: (00:53.80) | End: (00:55.80)
+"My mother is dead."
+
+**CAMERA:**
+Start: (00:55.90) | End: (00:57.50)
+Over-the-shoulder shot on Lady Harrow.
+
+**LADY HARROW (Smiling):**
+Start: (00:56.10) | End: (00:57.40)
+"Is she?"
+
+**CAMERA:**
+Start: (00:57.50) | End: (01:00.00)
+Cut to the source of the sound.
+
+**SOUND FX:**
+Start: (00:57.50) | End: (01:00.00)
+A sharp stinger hits and the scene cuts to black.
+
+--- SCRIPT END ---

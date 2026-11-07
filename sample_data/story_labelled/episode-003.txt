@@ -1,0 +1,142 @@
+EPISODE NUMBER: Episode 3
+EPISODE LOGLINE: Mara confronts Lady Harrow at the Harrow manor.
+CONTINUITY NOTES: Follows Episode 2; Mara has just heard that her mother may be alive.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. MANOR - CONTINUOUS
+Scene end: 01:06.40
+Scene start: 00:00.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:05.20)
+Wide shot of the scene.
+
+**ACTION:**
+Start: (00:00.00) | End: (00:05.20)
+Mara sits across a long dining table from Lady Harrow, a single candle between them.
+
+**CAMERA:**
+Start: (00:05.20) | End: (00:08.20)
+Medium shot of Mara.
+
+**MARA (Sharp):**
+Start: (00:05.40) | End: (00:08.10)
+"Tell me where my mother is."
+
+**CAMERA:**
+Start: (00:08.20) | End: (00:12.00)
+Over-the-shoulder shot on Lady Harrow.
+
+**LADY HARROW (Smooth):**
+Start: (00:08.40) | End: (00:11.90)
+"Eat first. You have walked a long way."
+
+**CAMERA:**
+Start: (00:12.00) | End: (00:19.00)
+Tight shot on Mara's eyes.
+
+**MARA (Angry):**
+Start: (00:12.20) | End: (00:18.90)
+"I will not eat at the table of the woman who hired my cousin to ruin me."
+
+**CAMERA:**
+Start: (00:19.00) | End: (00:24.90)
+Close-up on Lady Harrow's face.
+
+**LADY HARROW (Cold):**
+Start: (00:19.20) | End: (00:24.80)
+"I hired no one. I only offered Lena a better offer than your father's."
+
+**CAMERA:**
+Start: (00:24.90) | End: (00:27.20)
+Medium shot of Mara.
+
+**MARA (Stunned):**
+Start: (00:25.10) | End: (00:27.10)
+"You bribed my family?"
+
+**CAMERA:**
+Start: (00:27.20) | End: (00:31.70)
+Over-the-shoulder shot on Lady Harrow.
+
+**LADY HARROW (Amused):**
+Start: (00:27.40) | End: (00:31.60)
+"I bought a debt. Your father owes me the orchard."
+
+**CAMERA:**
+Start: (00:31.70) | End: (00:37.50)
+Slow push-in on the room.
+
+**ACTION:**
+Start: (00:31.70) | End: (00:37.50)
+She slides a folded paper across the table. Mara reads it and her hands begin to shake.
+
+**CAMERA:**
+Start: (00:37.50) | End: (00:41.30)
+Close-up on Mara's face.
+
+**MARA (Desperate):**
+Start: (00:37.70) | End: (00:41.20)
+"This debt was never signed by my father."
+
+**CAMERA:**
+Start: (00:41.30) | End: (00:46.10)
+Medium shot of Lady Harrow.
+
+**LADY HARROW (Quietly):**
+Start: (00:41.50) | End: (00:46.00)
+"No. It was signed by the woman you call your mother."
+
+**CAMERA:**
+Start: (00:46.10) | End: (00:50.20)
+Over-the-shoulder shot on Mara.
+
+**MARA (Breaking):**
+Start: (00:46.30) | End: (00:50.10)
+"That is impossible. She died before I could walk."
+
+**CAMERA:**
+Start: (00:50.20) | End: (00:54.30)
+Tight shot on Elias's eyes.
+
+**ELIAS (Hard):**
+Start: (00:50.40) | End: (00:54.20)
+"Mara, do not listen to her. Leave the room."
+
+**CAMERA:**
+Start: (00:54.30) | End: (00:58.10)
+Close-up on Lady Harrow's face.
+
+**LADY HARROW (Sweet):**
+Start: (00:54.50) | End: (00:58.00)
+"Elias, tell her who really pays your wages."
+
+**CAMERA:**
+Start: (00:58.10) | End: (01:01.60)
+Slow push-in on the room.
+
+**ACTION:**
+Start: (00:58.10) | End: (01:01.60)
+Elias lowers his eyes and does not answer.
+
+**CAMERA:**
+Start: (01:01.60) | End: (01:03.90)
+Over-the-shoulder shot on Mara.
+
+**MARA (Whispering):**
+Start: (01:01.80) | End: (01:03.80)
+"Elias... who sent you?"
+
+**CAMERA:**
+Start: (01:03.90) | End: (01:06.40)
+Cut to the source of the sound.
+
+**SOUND FX:**
+Start: (01:03.90) | End: (01:06.40)
+Ominous drone, then a door slams somewhere upstairs.
+
+--- SCRIPT END ---

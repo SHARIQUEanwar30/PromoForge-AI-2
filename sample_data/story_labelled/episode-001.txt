@@ -1,0 +1,150 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: Mara is cast out of her family's orchard house on the night of her engagement feast.
+CONTINUITY NOTES: First episode of the series.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. ORCHARD HOUSE - NIGHT
+Scene end: 01:07.70
+Scene start: 00:00.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:05.20)
+Wide shot of the scene.
+
+**ACTION:**
+Start: (00:00.00) | End: (00:05.20)
+Mara stands at the orchard gate holding a lantern, her best dress stained with rain.
+
+**CAMERA:**
+Start: (00:05.20) | End: (00:07.90)
+Medium shot of Mara.
+
+**MARA (Breathless):**
+Start: (00:05.40) | End: (00:07.80)
+"Father, open the door. Please."
+
+**CAMERA:**
+Start: (00:07.90) | End: (00:12.40)
+Over-the-shoulder shot on Father.
+
+**FATHER (Cold):**
+Start: (00:08.10) | End: (00:12.30)
+"You are no daughter of mine after what you signed."
+
+**CAMERA:**
+Start: (00:12.40) | End: (00:15.80)
+Tight shot on Mara's eyes.
+
+**MARA (Desperate):**
+Start: (00:12.60) | End: (00:15.70)
+"I signed nothing! Someone forged my name!"
+
+**CAMERA:**
+Start: (00:15.80) | End: (00:19.90)
+Close-up on Cousin Lena's face.
+
+**COUSIN LENA (Smug):**
+Start: (00:16.00) | End: (00:19.80)
+"Careful, Mara. Slander is a crime in this county."
+
+**CAMERA:**
+Start: (00:19.90) | End: (00:24.90)
+Medium shot following the movement.
+
+**ACTION:**
+Start: (00:19.90) | End: (00:24.90)
+Lena steps onto the porch, smiling, holding the engagement ring Mara wore this morning.
+
+**CAMERA:**
+Start: (00:24.90) | End: (00:27.90)
+Over-the-shoulder shot on Mara.
+
+**MARA (Shaking):**
+Start: (00:25.10) | End: (00:27.80)
+"Why do you have my ring?"
+
+**CAMERA:**
+Start: (00:27.90) | End: (00:32.40)
+Tight shot on Lena's eyes.
+
+**LENA (Triumphant):**
+Start: (00:28.10) | End: (00:32.30)
+"Because Tobias asked me to wear it. He chose me."
+
+**CAMERA:**
+Start: (00:32.40) | End: (00:35.80)
+Close-up on Tobias's face.
+
+**TOBIAS (Ashamed):**
+Start: (00:32.60) | End: (00:35.70)
+"I never wanted it this way, Mara."
+
+**CAMERA:**
+Start: (00:35.80) | End: (00:39.60)
+Medium shot of Mara.
+
+**MARA (Furious):**
+Start: (00:36.00) | End: (00:39.50)
+"You let them lie about me. You watched."
+
+**CAMERA:**
+Start: (00:39.60) | End: (00:43.00)
+Over-the-shoulder shot on Father.
+
+**FATHER (Commanding):**
+Start: (00:39.80) | End: (00:42.90)
+"Take her lantern. She leaves with nothing."
+
+**CAMERA:**
+Start: (00:43.00) | End: (00:47.80)
+Medium shot following the movement.
+
+**ACTION:**
+Start: (00:43.00) | End: (00:47.80)
+A servant tears the lantern from Mara's hand and the light goes out.
+
+**CAMERA:**
+Start: (00:47.80) | End: (00:50.80)
+Close-up on Mara's face.
+
+**MARA (Quiet fury):**
+Start: (00:48.00) | End: (00:50.70)
+"Remember this night. All of you."
+
+**CAMERA:**
+Start: (00:50.80) | End: (00:53.30)
+Cut to the source of the sound.
+
+**SOUND FX:**
+Start: (00:50.80) | End: (00:53.30)
+Ominous low strings swell as the gate slams shut.
+
+**CAMERA:**
+Start: (00:53.30) | End: (00:55.60)
+Over-the-shoulder shot on Stranger.
+
+**STRANGER (Calm):**
+Start: (00:53.50) | End: (00:55.50)
+"You dropped something, miss."
+
+**CAMERA:**
+Start: (00:55.60) | End: (01:01.40)
+Wide shot of the scene.
+
+**ACTION:**
+Start: (00:55.60) | End: (01:01.40)
+A tall stranger in a grey coat holds up a sealed letter stamped with the Harrow crest.
+
+**CAMERA:**
+Start: (01:01.40) | End: (01:07.70)
+Close-up on Mara's face.
+
+**MARA (Stunned):**
+Start: (01:01.60) | End: (01:07.60)
+"That seal belongs to the richest family in the valley. Why do you have it?"
+
+--- SCRIPT END ---

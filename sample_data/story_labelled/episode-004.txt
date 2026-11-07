@@ -1,0 +1,142 @@
+EPISODE NUMBER: Episode 4
+EPISODE LOGLINE: A sudden arrival at the manor changes everything.
+CONTINUITY NOTES: Picks up immediately after Episode 3.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. MANOR - CONTINUOUS
+Scene end: 01:04.40
+Scene start: 00:00.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.20)
+Wide shot of the scene.
+
+**ACTION:**
+Start: (00:00.00) | End: (00:04.20)
+Elias backs toward the door as footsteps echo down the stairs.
+
+**CAMERA:**
+Start: (00:04.20) | End: (00:10.10)
+Medium shot of Elias.
+
+**ELIAS (Tense):**
+Start: (00:04.40) | End: (00:10.00)
+"I swore I would protect you, Mara. I just did not swear who from."
+
+**CAMERA:**
+Start: (00:10.10) | End: (00:13.90)
+Over-the-shoulder shot on Mara.
+
+**MARA (Furious):**
+Start: (00:10.30) | End: (00:13.80)
+"You lied to me from the first minute!"
+
+**CAMERA:**
+Start: (00:13.90) | End: (00:18.00)
+Tight shot on Elias's eyes.
+
+**ELIAS (Pleading):**
+Start: (00:14.10) | End: (00:17.90)
+"I told you the truth. Not all of it."
+
+**CAMERA:**
+Start: (00:18.00) | End: (00:23.80)
+Slow push-in on the room.
+
+**ACTION:**
+Start: (00:18.00) | End: (00:23.80)
+The dining room doors fly open and an elderly man leans on a cane in the doorway.
+
+**CAMERA:**
+Start: (00:23.80) | End: (00:27.20)
+Medium shot of Lord Harrow.
+
+**LORD HARROW (Weak):**
+Start: (00:24.00) | End: (00:27.10)
+"What have you done to my granddaughter?"
+
+**CAMERA:**
+Start: (00:27.20) | End: (00:30.60)
+Over-the-shoulder shot on Lady Harrow.
+
+**LADY HARROW (Startled):**
+Start: (00:27.40) | End: (00:30.50)
+"You should be in your bed, Father."
+
+**CAMERA:**
+Start: (00:30.60) | End: (00:35.10)
+Tight shot on Mara's eyes.
+
+**MARA (Shaking):**
+Start: (00:30.80) | End: (00:35.00)
+"Lord Harrow. Is it true that I am your heir?"
+
+**CAMERA:**
+Start: (00:35.10) | End: (00:37.80)
+Close-up on Lord Harrow's face.
+
+**LORD HARROW (Gentle):**
+Start: (00:35.30) | End: (00:37.70)
+"You have your grandmother's eyes."
+
+**CAMERA:**
+Start: (00:37.80) | End: (00:42.30)
+Medium shot of Lady Harrow.
+
+**LADY HARROW (Hissing):**
+Start: (00:38.00) | End: (00:42.20)
+"He is confused. He does not know what he says."
+
+**CAMERA:**
+Start: (00:42.30) | End: (00:46.80)
+Over-the-shoulder shot on Lord Harrow.
+
+**LORD HARROW (Firm):**
+Start: (00:42.50) | End: (00:46.70)
+"I know exactly what I say. The will changes tonight."
+
+**CAMERA:**
+Start: (00:46.80) | End: (00:51.80)
+Medium shot following the movement.
+
+**ACTION:**
+Start: (00:46.80) | End: (00:51.80)
+Lady Harrow pulls a small silver bell from her sleeve and rings it twice.
+
+**CAMERA:**
+Start: (00:51.80) | End: (00:54.80)
+Close-up on Elias's face.
+
+**ELIAS (Alarmed):**
+Start: (00:52.00) | End: (00:54.70)
+"Mara, run. That is a signal."
+
+**CAMERA:**
+Start: (00:54.80) | End: (00:56.80)
+Medium shot of Mara.
+
+**MARA (Terrified):**
+Start: (00:55.00) | End: (00:56.70)
+"Signal for what?"
+
+**CAMERA:**
+Start: (00:56.80) | End: (01:00.60)
+Medium shot following the movement.
+
+**ACTION:**
+Start: (00:56.80) | End: (01:00.60)
+Every light in the manor goes out at once.
+
+**CAMERA:**
+Start: (01:00.60) | End: (01:04.40)
+Tight shot on Lord Harrow's eyes.
+
+**LORD HARROW (Whispering):**
+Start: (01:00.80) | End: (01:04.30)
+"She has always had friends in the dark."
+
+--- SCRIPT END ---

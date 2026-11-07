@@ -1,0 +1,5 @@
+pydantic>=2.5
+streamlit>=1.40
+pandas>=2.0
+pypdf>=4.0
+tzdata; platform_system == "Windows"
